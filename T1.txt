@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 TEXT FILE CREATED
+=======
+TEXT FILE CREATED
+>>>>>>> c2486cf21afc8e9b4b43a7c21407f18a0bc5cb14
